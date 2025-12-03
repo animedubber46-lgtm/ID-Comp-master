@@ -34,7 +34,7 @@ Send me the correct ffmpeg code for more info.
 
 <code> -c:v libx264 -crf 23 </code> Tʜɪs ɪs ʏᴏᴜʀ ғғᴍᴘᴇɢ ᴄᴏᴅᴇ ✅
 
-📥 Fᴏʀ Hᴇʟᴘ Cᴏɴᴛ. @DC4Premium
+📥 Fᴏʀ Hᴇʟᴘ Cᴏɴᴛ. @Shivam_dubber
 """
 
     SEND_METADATA ="""
@@ -44,7 +44,7 @@ Send me the correct ffmpeg code for more info.
 
 ◦ <code> -map 0 -c:s copy -c:a copy -c:v copy -metadata title="My Video" -metadata author="John Doe" -metadata:s:s title="Subtitle Title" -metadata:s:a title="Audio Title" -metadata:s:v title="Video Title" </code>
 
-📥 Fᴏʀ Hᴇʟᴘ Cᴏɴᴛ. @DC4Premium
+📥 Fᴏʀ Hᴇʟᴘ Cᴏɴᴛ. @Shivam_dubber
 """
 
     
@@ -67,7 +67,7 @@ Available commands:-
 
     ABOUT_TXT = """<b>╭───────────⍟
 ├🤖 ᴍy ɴᴀᴍᴇ : @{}
-├👨‍💻 Pʀᴏɢʀᴀᴍᴇʀ : <a href=https://t.me/Shivam_dubbet>DC DEV</a>
+├👨‍💻 Pʀᴏɢʀᴀᴍᴇʀ : <a href=https://t.me/Shivam_dubber>DC DEV</a>
 ├👑 Instagram : <a href=t.me/DC4Premium/ritesh6_>C-Insta</a> 
 ├☃️ ꜰᴏᴜɴᴅᴇʀ ᴏꜰ : <a href=https://t.me/Shivam_Bot_Update>K-Lᴀɴᴅ</a>
 ├📕 Lɪʙʀᴀʀy : <a href=https://github.com/pyrogram>Pyʀᴏɢʀᴀᴍ</a>
